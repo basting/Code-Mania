@@ -1,0 +1,12 @@
+4 5
+AAABA
+A..BA
+A...A
+ACA.A
+5 5
+AA.AA
+ABA.A
+BAA.A
+CCC.A
+BAAA.
+0
